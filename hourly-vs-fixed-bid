@@ -1,0 +1,25 @@
+Programmers are typically payed in two ways: By the hour (hourly) or a fixed amount for job done (fixed bid).
+
+Each method of payment has benefits and weaknesses.
+
+Hourly:
+  Pros:
+    - Allows for greater flexibility with the project
+    - Best for ongoing projects with specs that keep changing
+    - Allows the client to "test out" a programmer with a small project or portion of a project
+Cons:
+    - Possible miss aligned interests 
+    - Probably need some sort of insurance to make sure a project gets done within a certain time frame
+    
+Fixed Bid:
+  Pros:
+  - Insures the specific project gets done
+  - Great for small projects or projects with a simple scope
+  Cons:
+  - New adjustments that fall outside of project scope become very costly
+  - It's difficult for a programmer to determine how long certain projects will take
+  - The project cost estimate is ussually rounded significantly up by the programmer to hedge against unforseen issues
+  
+Conclusion:
+Unless you have a small project with a very simple scope, it does not makes sense to pay via fixed bid.
+Even with small projects with simple scope, it still probably makes sense to pay per hour instead.
