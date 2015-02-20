@@ -11,5 +11,7 @@ While this topic comes up in virtually any scenario that involves managing stake
 **Managing developers and developer teams:**  In addition, good managers know how to structure projects and teams based on personalities, and put devs in situations that lead to better quality, efficiency and production.  At the end of the day, like any other situation, it’s about managing people and reacting to situations as much as anything else.
 
 [Additingal reading on the topic](http://programmers.stackexchange.com/questions/87321/what-is-the-best-way-to-incentivize-a-team-of-developers)
+
+
 ![Find the perfect carrot](https://lessoninmotivation.files.wordpress.com/2013/01/carrot-motivation.gif)
 
