@@ -13,3 +13,5 @@ All the choices we make in the beginning would directly impact how soon the firs
 be built, how much money it would cost, how easy it is to maintain this project, how scalable and reliable the
 service would be, and what kind of engineers to hire in the future , and would shape the team or company from
 many aspects.
+
+![make good choices](http://33.media.tumblr.com/tumblr_lktaa7sJaw1qzhvg4o1_500.gif)
