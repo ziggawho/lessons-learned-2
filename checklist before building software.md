@@ -8,5 +8,4 @@ These steps will help achieve goal of building the right piece of software, not 
 
 [Another interesting article](http://www.wired.com/2013/01/code-bugs-programming-why-we-need-specs/)
 
-Inline-style: 
 ![alt text](https://sp.yimg.com/ib/th?id=HN.608029690117230142&pid=15.1&P=0 "This is a picture")
