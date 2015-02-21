@@ -14,4 +14,6 @@ be built, how much money it would cost, how easy it is to maintain this project,
 service would be, and what kind of engineers to hire in the future , and would shape the team or company from
 many aspects.
 
+[Related reading on language choices](https://medium.com/aws-activate-startup-blog/choosing-the-right-programming-language-for-your-startup-b454be3ed5e2)
+
 ![make good choices](http://33.media.tumblr.com/tumblr_lktaa7sJaw1qzhvg4o1_500.gif)
