@@ -8,7 +8,7 @@ While this topic comes up in virtually any scenario that involves managing stake
 - Realizing how to best structure contracts based on the implications of equity-/salary- based compensation.     
 - Knowing how to offer flexibility to developers based on their expertise, or work habits.  For example, you might allow a developer being hired into a CTO role at your startup the flexibility to determine which framework, database structure, etc. to use rather than imposing those choices on them. 
 
-**Managing developers and developer teams:**  In addition, good managers know how to structure projects and teams based on personalities, and put devs in situations that lead to better quality, efficiency and production.  At the end of the day, like any other situation, it’s about managing people and reacting to situations as much as anything else.
+**Managing developers and developer teams:**  In addition, good managers know how to structure projects and teams based on personalities, and put devs in situations that lead to better quality, efficiency and production.  For exampele, this could mean allowing developers to own project estimates, in essense forcing them to adhere to their own imposed guidelines .  At the end of the day, like any other situation, it’s about managing people and reacting to situations as much as anything else.
 
 [Additingal reading on the topic](http://programmers.stackexchange.com/questions/87321/what-is-the-best-way-to-incentivize-a-team-of-developers)
 
