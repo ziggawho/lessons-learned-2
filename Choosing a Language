@@ -1,0 +1,22 @@
+# I don't know about you all, but I had no idea how many programming languages actually existed out there! 
+
+# Making the decision about what language to use can be an important one - not a "dealbreaker" by any means, but 
+# the founder should be careful about which language to use, based on the strategy of their business. By that, I mean
+# the founder and his/her team should decide whether or not the company should be web-based, app based, or both. 
+
+# Some of the key learnings that I took away from the course are:
+# (1) Front-end programming should allow the page to be user-friendly, minimalistic, responsive and able to convey the most
+#     useful information in a concise manner. Angular is a good choice, however due to issues with backwards compatibility, 
+#     it might not be the best. Perhaps something like HTML5 is better.
+# (2) Back-end programming is where the magic happens. In the past, developers have used Java extensively, but new startups
+#     are using Ruby on Rails (Ruby) due to it's flexibility and ease of use. It is also introducing new functionality all the
+      time, which appeals to programmers so they can keep up with the most recent trends/innovations. 
+# (3) For mobile applications, there used to be a big tradeoff between developing native and flexible applications. New
+      languages have allowed developers to essentially write a single template (in Titanium, for example) that can be applied
+      to both iOS and Android. Given limited budget, this might be the best way forward for new startups.
+
+Here is some information on why one should use Angular: http://www.sitepoint.com/10-reasons-use-angularjs/
+Here is a good overview on Ruby: http://guides.rubyonrails.org/getting_started.html
+And, if by the end of this you need a brain break, check out this compilation of cad videos: https://www.youtube.com/watch?v=tntOCGkgt98
+
+
